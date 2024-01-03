@@ -1,0 +1,5 @@
+# Default ignored files
+.idea/
+.DS_Store
+# .vscode
+__debug_bin
